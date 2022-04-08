@@ -51,6 +51,6 @@ resources:
 # - tasks/gitops-ace.yaml
 # - tasks/ibm-gitops-for-ace-task.yaml
 # - tasks/ibm-jmeter-performance-test.yaml
-# - tasks/resolve-props.yaml
+- tasks/resolve-props.yaml
 # - triggerbindings/ace-bar-trigger-binding.yaml
 # - triggertemplates/ace-bar-trigger-template.yaml
