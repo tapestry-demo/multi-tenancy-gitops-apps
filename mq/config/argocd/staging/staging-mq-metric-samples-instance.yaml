@@ -13,7 +13,7 @@ spec:
   project: applications
   source:
     path: mq/environments/mq-metric-samples/overlays/staging
-    repoURL: https://github.com/tapestry-demo/multi-tenancy-gitops-apps.git
+    repoURL: https://github.com/xcel-demo-2022/multi-tenancy-gitops-apps.git
     targetRevision: master
   syncPolicy:
     automated:
